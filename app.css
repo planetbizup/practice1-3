@@ -1,0 +1,17 @@
+h1{
+  color: rgba(0,200,100,0.8);
+/*  border-color: purple;
+  border-width:5px;
+  border-style:solid;*/
+
+  border: 2px dashed rgb(255,100,80);
+}
+
+h4{
+  background: rgb(255,100,80);
+}
+body{
+  background:pink
+  /* url(http://www.thelovepost.global/sites/default/files/styles/article_image_breakout/public/xstephen-leonardi-416237-unsplash.jpg,qitok=WFKhdFIh.pagespeed.ic.IaaCyL2BAu.webp);
+  background-repeat: no-repeat;*/
+}
